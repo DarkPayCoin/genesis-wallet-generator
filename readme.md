@@ -1,4 +1,4 @@
-# Particl Offline Wallet Generator BIP39 Tool
+# DarkPay Offline Wallet Generator BIP39 Tool
 
 A tool for converting BIP39 mnemonic phrases to addresses and private keys.
 
